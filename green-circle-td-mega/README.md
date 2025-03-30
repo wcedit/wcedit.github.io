@@ -50,14 +50,10 @@ Download: N/A
 -Hero Mode - Gold Start 10K
 -Classic Mode - Gold Start 20K
 -You lose if creep >=1000 (Hero/Classic Mode)
-```
-<b>Green Circle TD Mega 13.5</b><br>
-Download: N/A
-```
+
 -JJCP+FaiCP+FukkiCP
 -Fix lag and delay
 -Fix some upgrade
 -Fix some missing icon
 -Optimize map size
--You lose if creep >=2000 (Hero/Classic Mode)
 ```
