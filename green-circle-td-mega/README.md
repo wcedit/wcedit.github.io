@@ -1,5 +1,5 @@
 # Green Circle TD Mega
-<b>Green Circle TD Mega 13.5.2</b><br>
+<b>Green Circle TD Mega 13.5.2 (Edited)</b><br>
 Download: N/A
 ```
 Summoner structure:
@@ -44,7 +44,7 @@ Wisp buildable structures:
 -Belt of Giant Strength LV1/LV2 - Add 2500/5000 strength point
 -Boots of Robe of the Magi LV1/LV2 - Add 2500/5000 intelligence point
 ```
-<b>Green Circle TD Mega 13.5.1</b><br>
+<b>Green Circle TD Mega 13.5.1 (Edited)</b><br>
 Download: https://www.epicwar.com/maps/342549/
 ```
 -Hero Mode - Gold Start 10K
