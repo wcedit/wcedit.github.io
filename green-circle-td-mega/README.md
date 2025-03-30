@@ -6,7 +6,7 @@ Summoner structure:
 -Buff Skill no need mana, only need cooldown 
 -Additional Summoner(s) purchasable
 
-Castle structure:
+Heaven Castle structure:
 +Upgrade/Research modification
 -Wisp maximum 29
 -Lumber harvest maximum 20
