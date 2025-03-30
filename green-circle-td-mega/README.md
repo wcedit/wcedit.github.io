@@ -2,13 +2,19 @@
 <b>Green Circle TD Mega 13.5.2</b><br>
 Download: N/A
 ```
-Gold/Lumber Exchange
--2K Gold = 1K Lumber
--1K Lumber = 2K Gold
-
 Summoner structure:
 -Buff Skill no need mana, only need cooldown 
 -Additional Summoner(s) purchasable
+
+Castle structure:
++Upgrade/Research modification
+-Wisp maximum 29
+-Lumber harvest maximum 20
+-All other(s) maximum 40
+-All other(s) time 1s
++Gold/Lumber exchange
+-2K Gold = 1K Lumber
+-1K Lumber = 2K Gold
 
 Hero Tower modification:
 -Hero Tower 5 : Phantom Assasin - Devotion Aura 1 (-10 armor)
@@ -17,10 +23,12 @@ Hero Tower modification:
 -Hero Tower 8 : Lich King - Devotion Aura 4 (-40 armor)
 
 Unique Hero(s) modification:
+-Hero(s) Phase 1 / Before Transform (Hero damage)
+-Hero(s) Phase 2 / After Transform (Chaos damage)
 -Multiple Heros/Elders allowed
 -Hero(s) Moving enable
 -Hero(s) Equipment enable
--Hero(s) cinematic disabled
+-Hero(s) Transform cinematic disabled
 -Hero(s) Transform manually required
 
 Wisp buildable structures:
