@@ -2,14 +2,18 @@
 <b>Green Circle TD Mega 13.5.2 (Edited)</b><br>
 Download: N/A
 ```
+Novice Difficulty (No Bonus)
+Veteran Difficulty (+20% Life, +50 Armor)
+Hell Difficulty (+40% Life, +100 Armor, + 1% Regeneration)
+
 Summoner structure:
 -Buff Skill no need mana, only need cooldown 
 -Additional Summoner(s) purchasable
 
 Heaven Castle structure:
 +Upgrade/Research modification
--Wisp maximum 29
--Lumber harvest maximum 20
+-Wisp maximum 29 (Max Food 30)
+-Lumber harvest maximum 10 
 -All other(s) maximum 40
 -All other(s) time 1s
 +Gold/Lumber exchange
@@ -23,8 +27,8 @@ Hero Tower modification:
 -Hero Tower 8 : Lich King - Devotion Aura 4 (-40 armor)
 
 Unique Hero(s) modification:
--Hero(s) Phase 1 / Before Transform (Hero damage)
--Hero(s) Phase 2 / After Transform (Chaos damage)
+-Hero(s) Phase 1 / Before Transform (Hero damage) - Unlock Special Tower Upgrade
+-Hero(s) Phase 2 / After Transform (Chaos damage) - Not Unlock Special Tower Upgrade
 -Multiple Heros/Elders allowed
 -Hero(s) Moving enable
 -Hero(s) Equipment enable
@@ -43,6 +47,8 @@ Wisp buildable structures:
 -Boots of Quel'Thalas LV1/LV2 - Add 2500/5000 ability point
 -Belt of Giant Strength LV1/LV2 - Add 2500/5000 strength point
 -Boots of Robe of the Magi LV1/LV2 - Add 2500/5000 intelligence point
+
++Wisp teleportaion ability added
 ```
 <b>Green Circle TD Mega 13.5.1 (Edited)</b><br>
 Download: [https://www.epicwar.com/maps/342549](https://www.epicwar.com/maps/342549)
