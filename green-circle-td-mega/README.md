@@ -60,9 +60,9 @@ Download: [https://www.epicwar.com/maps/342549](https://www.epicwar.com/maps/342
 -Classic Mode - Gold Start 20K
 -You lose if creep >=1000 (Hero/Classic Mode)
 
--JJCP+FaiCP+FukkiCP
 -Fix lag and delay
 -Fix some upgrade
 -Fix some missing icon
 -Optimize map size
+-JJCP+FaiCP+FukkiCP
 ```
