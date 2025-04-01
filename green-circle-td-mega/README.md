@@ -6,6 +6,9 @@ Novice Difficulty (No Bonus)
 Veteran Difficulty (+20% Life, +50 Armor)
 Hell Difficulty (+40% Life, +100 Armor, + 1% Regeneration)
 
+Summoner unit:
+-Instantly destroy target (including ally). USE WISELY!
+
 Summoner structure:
 -Buff Skill no need mana, only need cooldown 
 -Additional Summoner(s) purchasable
