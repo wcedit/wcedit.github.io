@@ -1,3 +1,3 @@
 [Green Circle TD Mega](./green-circle-td-mega/)
 <br>
-<img alt="Visitor Stats" src="https://widgetbite.com/stats/wcedit"/>
+![Visitor Count](https://profile-counter.glitch.me/wcget/count.svg)
