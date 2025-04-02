@@ -1,3 +1,3 @@
 [Green Circle TD Mega](./green-circle-td-mega/)
-#
-![Visitor Count](https://profile-counter.glitch.me/wcget/count.svg)
+<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wcedit&label=Views%20count&color=0e75b6&style=flat" alt="wcedit" /> </p>
