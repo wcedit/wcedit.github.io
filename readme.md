@@ -1,3 +1,3 @@
 [Green Circle TD Mega](/green-circle-td-mega/)
 ---
-![Visitor Count](https://profile-counter.glitch.me/wcedit.github.io/count.svg)
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=wcedit.wcedit.github.io"></div>
