@@ -1,6 +1,6 @@
 # Green Circle TD Mega
 <b>Green Circle TD Mega 13.5.3 (Edited)</b><br>
-Download: N/A
+Download: [https://www.epicwar.com/maps/343582](https://www.epicwar.com/maps/343582)
 ```
 Redesign Multiboard Detail
 -Show all playeres current Gold/Lumber/Food
@@ -14,16 +14,16 @@ Optimization
 -Wave 40 to 45 - 90s per wave
 -Wave 16 (Special Boss Wave) - 90s per wave
 
-Vote Kick
+Vote Kick: (already)
 "-kick #" which # is player slot (1-8)
 "-ok" for Agree
 "-no" for Disagree
 
+Summoner unit: (already)
+-Can build One-Strike Kill Tower (100K Gold)
+
 Unique Hero(s) modification:
 -Hero only manually upgrade from Phase 1 to Phase 2 (50K Gold + 50K Lumber) by itself type (nomore reroll selection, which may cause Error from previous version)
-
-Summoner unit:
--Can build One-Strike Kill Tower (100K Gold)
 
 Remove all CP
 ```
