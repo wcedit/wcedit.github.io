@@ -1,7 +1,7 @@
 # Green Circle TD Mega
 <b>Green Circle TD Mega 13.5.3 (Edited)</b><br>
-Version 1K Creeps:  [https://www.epicwar.com/maps/343583](https://www.epicwar.com/maps/343583) (*Recommended - Normal Version)<br>
-Version 10K Creeps: [https://www.epicwar.com/maps/343582](https://www.epicwar.com/maps/343582)(*Not-Recommended - Testing Version)<br>
+Version 1K Creeps:  [https://www.epicwar.com/maps/343583](https://www.epicwar.com/maps/343583)(Recommended - Normal Version)<br>
+Version 10K Creeps: [https://www.epicwar.com/maps/343582](https://www.epicwar.com/maps/343582)(Not-Recommended - Testing Version)<br>
 ```
 Redesign Multiboard Detail
 -Show all playeres current Gold/Lumber/Food
