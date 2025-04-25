@@ -91,3 +91,4 @@ Download: [https://www.epicwar.com/maps/342549](https://www.epicwar.com/maps/342
 -Optimize map size
 -JJCP+FaiCP+FukkiCP
 ```
+[Issues](https://github.com/wcedit/wcedit.github.io/issues) - [Pull Requests](https://github.com/wcedit/wcedit.github.io/pulls) - [Wiki](https://github.com/wcedit/wcedit.github.io/wiki)
