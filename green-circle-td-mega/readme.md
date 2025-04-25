@@ -1,6 +1,6 @@
 # Green Circle TD Mega
 <b>Green Circle TD Mega 13.5.3 (Edited)</b><br>
-Download: [https://www.epicwar.com/maps/343582](https://www.epicwar.com/maps/343582)
+Download: 
 ```
 Redesign Multiboard Detail
 -Show all playeres current Gold/Lumber/Food
