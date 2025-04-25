@@ -22,6 +22,9 @@ Vote Kick
 Unique Hero(s) modification:
 -Hero only manually upgrade from Phase 1 to Phase 2 (50K Gold + 50K Lumber) by itself type (nomore reroll selection, which may cause Error from previous version)
 
+Summoner unit:
+-Can build One-Strike Kill Tower (100K Gold)
+
 Remove all CP
 ```
 <b>Green Circle TD Mega 13.5.2 (Edited)</b><br>
