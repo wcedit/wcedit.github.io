@@ -30,35 +30,6 @@ Book of Knowledge (+1 LV)
 
 *ALL WAVES NOW SPAWN UNITS AT SAME AMOUNT EVEN BONUS WAVES (except special BOSS wave 16)
 ```
-<b>Green Circle TD Mega 13.5.4 (Edited)</b><br>
-Version 1K Creeps:  [https://www.epicwar.com/maps/343583](https://www.epicwar.com/maps/343583)(Recommended - Normal Version)<br>
-Version 10K Creeps: [https://www.epicwar.com/maps/343582](https://www.epicwar.com/maps/343582)(Not-Recommended - Testing Version)<br>
-```
-Redesign Multiboard Detail
--Show all playeres current Gold/Lumber/Food
--Show current Wave and Time left
--Show Total Kills Creeps from begining
-
-Optimization
--Modified spawn rate to reduce lag from Wave 35
--Maybe optimize Desync and Disconnect Error
--Wave 1 to 39 - 45s per wave
--Wave 40 to 45 - 90s per wave
--Wave 16 (Special Boss Wave) - 90s per wave
-
-Vote Kick: (already)
-"-kick #" which # is player slot (1-8)
-"-ok" for Agree
-"-no" for Disagree
-
-Summoner unit: (already)
--Can build One-Strike Kill Tower (100K Gold)
-
-Unique Hero(s) modification:
--Hero only manually upgrade from Phase 1 to Phase 2 (50K Gold + 50K Lumber) by itself type (nomore reroll selection, which may cause Error from previous version)
-
-Remove all CP
-```
 <b>Green Circle TD Mega 13.5.3 (Edited)</b><br>
 Version 1K Creeps:  [https://www.epicwar.com/maps/343583](https://www.epicwar.com/maps/343583)(Recommended - Normal Version)<br>
 Version 10K Creeps: [https://www.epicwar.com/maps/343582](https://www.epicwar.com/maps/343582)(Not-Recommended - Testing Version)<br>
