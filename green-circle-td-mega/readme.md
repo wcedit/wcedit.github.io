@@ -1,4 +1,64 @@
 # Green Circle TD Mega
+<b>Green Circle TD Mega 13.5.4 (Edited)</b><br>
+Download: [https://www.epicwar.com/maps/347547](https://www.epicwar.com/maps/347547)
+```
++Summoner unit: (wisp)
+-Add ability to harvests lumber from trees
+-Upgrade (LV1-Lv3)
+LV1 (original/tranform): Instanly build all Towers at LV1
+LV2 (original/tranform - upgrade 250K Gold): Instanly build all Towers at LV(MAX-1) (upgrade MAX with unique HERO)
+LV3 (original/tranform - upgrade 500K Gold): Instanly build all Towers at LV(MAX) (build MAX without unique HERO)
+
++Arcane Vault
+-Purchaseable build:
+Altar of Heros: HERO Phase 1 / Before Transform
+Altar of Elders: HERO Phase 2 / After Transform
+Altar of Storms: Equipment shop for HERO
+Altar of Darkness: Powerup shop for HERO
+Mage Druild Tower (Druild LV1)
+Mage Druild Stomp (Druild LV3)
+Semi-Perfect Tower
+Final-Perfect Tower
+One-Hit Tower LV2 (1s/hit)
+One-Hit Tower LV3 (0.1s/hit)
+
++Altar of Darkness
+Book of Experience (1000 EXP)
+Book of Experience (10000 EXP)
+Book of Power (+1000 Int/Agi/Str)
+Book of Knowledge (+1 LV)
+
+*ALL WAVES NOW SPAWN UNITS AT SAME AMOUNT EVEN BONUS WAVES (except special BOSS wave 16)
+```
+<b>Green Circle TD Mega 13.5.4 (Edited)</b><br>
+Version 1K Creeps:  [https://www.epicwar.com/maps/343583](https://www.epicwar.com/maps/343583)(Recommended - Normal Version)<br>
+Version 10K Creeps: [https://www.epicwar.com/maps/343582](https://www.epicwar.com/maps/343582)(Not-Recommended - Testing Version)<br>
+```
+Redesign Multiboard Detail
+-Show all playeres current Gold/Lumber/Food
+-Show current Wave and Time left
+-Show Total Kills Creeps from begining
+
+Optimization
+-Modified spawn rate to reduce lag from Wave 35
+-Maybe optimize Desync and Disconnect Error
+-Wave 1 to 39 - 45s per wave
+-Wave 40 to 45 - 90s per wave
+-Wave 16 (Special Boss Wave) - 90s per wave
+
+Vote Kick: (already)
+"-kick #" which # is player slot (1-8)
+"-ok" for Agree
+"-no" for Disagree
+
+Summoner unit: (already)
+-Can build One-Strike Kill Tower (100K Gold)
+
+Unique Hero(s) modification:
+-Hero only manually upgrade from Phase 1 to Phase 2 (50K Gold + 50K Lumber) by itself type (nomore reroll selection, which may cause Error from previous version)
+
+Remove all CP
+```
 <b>Green Circle TD Mega 13.5.3 (Edited)</b><br>
 Version 1K Creeps:  [https://www.epicwar.com/maps/343583](https://www.epicwar.com/maps/343583)(Recommended - Normal Version)<br>
 Version 10K Creeps: [https://www.epicwar.com/maps/343582](https://www.epicwar.com/maps/343582)(Not-Recommended - Testing Version)<br>
