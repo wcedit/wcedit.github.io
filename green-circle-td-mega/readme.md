@@ -1,4 +1,10 @@
 # Green Circle TD Mega
+<b>Green Circle TD Mega 13.5.5 (Edited)</b><br>
+Download: [https://www.epicwar.com/maps/347712](https://www.epicwar.com/maps/347712)
+```
+*FIX/REDUCE LAG AFTER WAVE 30
+*All TOWER NOW WITH INVENTORY ITEMS EQIUP-ABLE
+```
 <b>Green Circle TD Mega 13.5.4 (Edited)</b><br>
 Download: [https://www.epicwar.com/maps/347547](https://www.epicwar.com/maps/347547)
 ```
