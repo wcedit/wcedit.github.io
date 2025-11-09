@@ -2,8 +2,9 @@
 <b>Green Circle TD Mega 13.5.5 (Edited)</b><br>
 Download: [https://www.epicwar.com/maps/347712](https://www.epicwar.com/maps/347712)
 ```
-*FIX/REDUCE LAG AFTER WAVE 30
 *All TOWER NOW WITH INVENTORY ITEMS EQIUP-ABLE
+*FIX/REDUCE HEAVY LAG WAVE 31, 36 (NO MORE MINIONS SPAWN)
+**TO AVOID/REDUCE LAG AFTER WAVE 40, DO NOT LEAK!
 ```
 <b>Green Circle TD Mega 13.5.4 (Edited)</b><br>
 Download: [https://www.epicwar.com/maps/347547](https://www.epicwar.com/maps/347547)
