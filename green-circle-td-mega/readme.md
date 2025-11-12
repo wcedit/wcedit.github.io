@@ -1,6 +1,6 @@
 # Green Circle TD Mega
 <b>Green Circle TD Mega 13.5.6 (Edited)</b><br>
-Download: Coming Soon...
+Download: [https://www.epicwar.com/maps/347771](https://www.epicwar.com/maps/347771)
 ```
 Novice Difficulty (No Bonus)
 Veteran Difficulty (+20% Life, +100 rmor)
