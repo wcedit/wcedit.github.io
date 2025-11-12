@@ -2,7 +2,7 @@
 <b>Green Circle TD Mega 13.5.6 (Edited)</b><br>
 Download: Coming Soon...
 ```
-Novice Difficulty (No Bonus)A
+Novice Difficulty (No Bonus)
 Veteran Difficulty (+20% Life, +100 rmor)
 Hell Difficulty (+40% Life, +200 Armor, + 1% Regeneration
 
