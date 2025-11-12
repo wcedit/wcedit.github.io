@@ -1,4 +1,22 @@
 # Green Circle TD Mega
+<b>Green Circle TD Mega 13.5.6 (Edited)</b><br>
+Download: Comming Soon...
+```
+Novice Difficulty (No Bonus)A
+Veteran Difficulty (+20% Life, +100 rmor)
+Hell Difficulty (+40% Life, +200 Armor, + 1% Regeneration
+
++Altar of Darkness
+Book of Attack (+100000 Damage) (permanent increase damage HERO/TOWER within range
+
++Heaven Castle:
++Upgrade/Research modification
+-Lumber harvest maximum 50
+-All other(s) maximum 100
+
+*All other(s) build tower/structure now 1s
+**FIX/REDUCE HEAVY LAG AFTER WAVE 40 BY REDUCE SCALE MODEL SIZE TO 1.00
+```
 <b>Green Circle TD Mega 13.5.5 (Edited)</b><br>
 Download: [https://www.epicwar.com/maps/347712](https://www.epicwar.com/maps/347712)
 ```
