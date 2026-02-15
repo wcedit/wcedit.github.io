@@ -1,13 +1,27 @@
 # Green Circle TD Mega
+<b>Green Circle TD Mega 13.5.7 (Edited)</b><br>
+Download: [https://www.epicwar.com/maps/349466](https://www.epicwar.com/maps/349466)
+```
+Novice Difficulty (No Bonus)
+Veteran Difficulty (+20% Life, +500 rmor)
+Hell Difficulty (+40% Life, +1000 Armor, + 1% Regeneration)
+
+*NO MORE minions spawn all waves (Reduce/Fix LAG as much as possible)
+**Unlocked maximum lumber farming from begining (Wave 1 | 30 Food / 50 Harvest)
+
++Waves Time:
+-1 to 39 (45s per wave)
+-40 to 45 (60s per wave)      
+```
 <b>Green Circle TD Mega 13.5.6 (Edited)</b><br>
 Download: [https://www.epicwar.com/maps/347771](https://www.epicwar.com/maps/347771)
 ```
 Novice Difficulty (No Bonus)
 Veteran Difficulty (+20% Life, +100 rmor)
-Hell Difficulty (+40% Life, +200 Armor, + 1% Regeneration
+Hell Difficulty (+40% Life, +200 Armor, + 1% Regeneration)
 
 +Altar of Darkness
-Book of Attack (+100000 Damage) (permanent increase damage HERO/TOWER within range
+Book of Attack (+100000 Damage) (permanent increase damage HERO/TOWER within range)
 
 +Heaven Castle:
 +Upgrade/Research modification
